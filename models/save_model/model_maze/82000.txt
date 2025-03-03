@@ -1,0 +1,48 @@
+----------test model 82000----------
+test set: 40 length 4 agents 0.3 density
+success rate: 98.50%
+average step: 55.845
+
+test set: 40 length 8 agents 0.3 density
+success rate: 96.50%
+average step: 68.475
+
+test set: 40 length 16 agents 0.3 density
+success rate: 97.00%
+average step: 81.265
+
+test set: 40 length 32 agents 0.3 density
+success rate: 96.50%
+average step: 98.225
+
+test set: 40 length 64 agents 0.3 density
+success rate: 86.00%
+average step: 158.68
+
+test set: 40 length 128 agents 0.3 density
+success rate: 11.50%
+average step: 251.98
+
+test set: 80 length 4 agents 0.3 density
+success rate: 95.50%
+average step: 103.33
+
+test set: 80 length 8 agents 0.3 density
+success rate: 91.00%
+average step: 124.75
+
+test set: 80 length 16 agents 0.3 density
+success rate: 90.50%
+average step: 136.44
+
+test set: 80 length 32 agents 0.3 density
+success rate: 86.50%
+average step: 154.205
+
+test set: 80 length 64 agents 0.3 density
+success rate: 83.00%
+average step: 176.9
+
+test set: 80 length 128 agents 0.3 density
+success rate: 64.50%
+average step: 225.435

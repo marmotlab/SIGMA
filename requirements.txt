@@ -1,0 +1,7 @@
+ray==2.2.0
+PyYAML
+pyproject-toml==0.0.10
+ruff==0.0.241
+matplotlib==3.6.2
+wandb
+scikit-image

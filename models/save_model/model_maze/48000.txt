@@ -1,0 +1,48 @@
+----------test model 48000----------
+test set: 40 length 4 agents 0.3 density
+success rate: 100.00%
+average step: 52.02
+
+test set: 40 length 8 agents 0.3 density
+success rate: 98.50%
+average step: 62.37
+
+test set: 40 length 16 agents 0.3 density
+success rate: 97.50%
+average step: 74.405
+
+test set: 40 length 32 agents 0.3 density
+success rate: 98.50%
+average step: 86.795
+
+test set: 40 length 64 agents 0.3 density
+success rate: 91.00%
+average step: 143.645
+
+test set: 40 length 128 agents 0.3 density
+success rate: 18.00%
+average step: 249.635
+
+test set: 80 length 4 agents 0.3 density
+success rate: 96.50%
+average step: 100.7
+
+test set: 80 length 8 agents 0.3 density
+success rate: 97.00%
+average step: 113.79
+
+test set: 80 length 16 agents 0.3 density
+success rate: 92.00%
+average step: 131.235
+
+test set: 80 length 32 agents 0.3 density
+success rate: 93.50%
+average step: 141.68
+
+test set: 80 length 64 agents 0.3 density
+success rate: 84.50%
+average step: 169.985
+
+test set: 80 length 128 agents 0.3 density
+success rate: 69.00%
+average step: 211.855

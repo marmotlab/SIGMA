@@ -1,0 +1,60 @@
+----------test model 84000_house----------
+test set: 40 length 4 agents 0.3 density
+success rate: 100.00%
+average step: 60.615
+section map value: 0.000662744946814509
+
+test set: 40 length 8 agents 0.3 density
+success rate: 100.00%
+average step: 71.77
+section map value: 0.0008832623664887615
+
+test set: 40 length 16 agents 0.3 density
+success rate: 100.00%
+average step: 88.415
+section map value: 0.0013721437771911252
+
+test set: 40 length 32 agents 0.3 density
+success rate: 94.50%
+average step: 137.05
+section map value: 0.0009309050467259662
+
+test set: 40 length 64 agents 0.3 density
+success rate: 90.50%
+average step: 221.0
+section map value: 0.00042957869603428957
+
+test set: 40 length 128 agents 0.3 density
+success rate: 65.50%
+average step: 383.83
+section map value: 0.00010825132509706112
+
+test set: 60 length 4 agents 0.3 density
+success rate: 99.50%
+average step: 87.53
+section map value: 0.000340530318225707
+
+test set: 60 length 8 agents 0.3 density
+success rate: 100.00%
+average step: 101.7
+section map value: 0.0005961027463415024
+
+test set: 60 length 16 agents 0.3 density
+success rate: 98.50%
+average step: 120.91
+section map value: 0.0009621329026974682
+
+test set: 60 length 32 agents 0.3 density
+success rate: 97.00%
+average step: 150.11
+section map value: 0.001130406513923939
+
+test set: 60 length 64 agents 0.3 density
+success rate: 93.50%
+average step: 193.99
+section map value: 0.0009508468719333973
+
+test set: 60 length 128 agents 0.3 density
+success rate: 79.50%
+average step: 318.985
+section map value: 0.0004742293239218569
